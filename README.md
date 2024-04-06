@@ -1,8 +1,6 @@
 
 ## Dependencies
-
-Tarkov - https://www.escapefromtarkov.com/  (Must Purchase)
-SPTarkov - https://www.stayintarkov.com/  
+SIT - https://www.stayintarkov.com/  
 Painter Mod - https://hub.sp-tarkov.com/files/file/1412-painter/
 
 ## Description
