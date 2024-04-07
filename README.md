@@ -26,7 +26,7 @@ make sure you have done this too
 
 ## Further Support
 
-For further support, join our [SIT Discord](https://stayintarkov.com/discord).
+For further support, join the [SIT Discord](https://stayintarkov.com/discord).
 
 ## License
 
