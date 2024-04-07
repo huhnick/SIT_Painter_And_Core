@@ -23,3 +23,7 @@ This is a update/patch for the Painter mod to be compatible with the latest vers
 This has to be done by all clients as well
 this is the most recent build with a bunch of fixes like the animations after door unlock and a bunch of other good stuff like, car extracts and others
 make sure you have done this too
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
