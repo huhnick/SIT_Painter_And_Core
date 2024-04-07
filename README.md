@@ -24,6 +24,13 @@ This has to be done by all clients as well
 this is the most recent build with a bunch of fixes like the animations after door unlock and a bunch of other good stuff like, car extracts and others
 make sure you have done this too
 
+## Further Support
+
+For further support, join our [SIT Discord](https://stayintarkov.com/discord).
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
